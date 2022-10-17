@@ -137,7 +137,7 @@ title="How to build a copy of Vine using IPFS and CRDTs"
 description="This talk will describe the journey followed from research to implementation of a distributed clone of Vine—the GIF sharing app.
 It will touch on the p2p aspects of the app, the nature of distributed apps, and how a blockchain layer is optional when building distributed apps. Then it will continue explaining the high-level plan for the app and the goals that were set.
 
-Finally, it will touch on the implementation details, the dragons, the groundwork, the how-tos and gotchas of using a shared data structure (CRTD) between peers, and a demo of the gif-sharing app.
+Finally, it will touch on the implementation details, the dragons, the groundwork, the how-tos and gotchas of using a shared data structure (CRDT) between peers, and a demo of the gif-sharing app.
 "
 
 [[timeslots]]
